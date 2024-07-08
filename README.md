@@ -8,6 +8,7 @@ This Android app demonstrates fetching and displaying a list of items from a rem
 4. Displays fetched items grouped by listId and sorted by listId and name.
 5. Filters out items with blank or null name fields.
 6. Displays the list in a RecyclerView with a simple adapter.
+   
 **Components Used**
 1. Retrofit: For making network requests and parsing JSON responses.
 2. Gson Converter: To convert JSON response to Kotlin objects.
